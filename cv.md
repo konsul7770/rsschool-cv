@@ -34,5 +34,5 @@ Faculty of Electronic-Informational Systems, Automated Data Processing and Data 
 
 ## Languadges
 
-Native language – Russian
-English - Intermediate
+* Native language – Russian
+* English - Intermediate
